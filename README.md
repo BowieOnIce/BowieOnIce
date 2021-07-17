@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gourdzilla, but you can call me Gordy if you like.
+- 👀 I’m interested in casual coding and ornithology. My mind would explode if I found some sort of marriage of the two.
+- 🌱 I’m currently learning python (very slowly) and am hoping to become not terrible at it.
+- 💞️ I’m looking to collaborate on nothing as of yet, but that may change once I don't suck at programming.
+- 📫 How to reach me ... If it's possible, send me a message on github. I haven't set up a professional email address yet. /shrug
